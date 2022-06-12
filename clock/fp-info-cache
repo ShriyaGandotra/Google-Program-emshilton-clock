@@ -1,0 +1,337 @@
+79419370163690
+footprints
+Adafruit-1001-0-0-MFG
+White 7-segment clock display
+
+0
+14
+14
+footprints
+Adafruit_Neopixel_TH_1938
+NeoPixel Diffused 5mm Through-Hole LED
+RGB LED TH
+0
+4
+4
+footprints
+BatteryHolder_Keystone_106_1x20mm
+http://www.keyelco.com/product-pdf.cfm?p=720
+Keystone type 106 battery holder
+0
+2
+2
+footprints
+Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
+Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf
+buzzer
+0
+2
+2
+footprints
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+footprints
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints
+C_Rect_L4.0mm_W2.5mm_P2.50mm
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4*2.5mm^2, Capacitor
+C Rect series Radial pin pitch 2.50mm  length 4mm width 2.5mm Capacitor
+0
+2
+2
+footprints
+Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+footprints
+Crystal_HC49-4H_Vertical
+Crystal THT HC-49-4H Half-Height
+THT crystalHC-49-4H
+0
+2
+2
+footprints
+Crystal_SMD_2Pin_3.2x1.5mm
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC7V-T1A.pdf, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+footprints
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+footprints
+DIP-8_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+footprints
+DIP-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+footprints
+DIP-24_W7.62mm
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+24
+24
+footprints
+DIP-28_W7.62mm
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+28
+28
+footprints
+HPS_logo
+
+
+0
+0
+0
+footprints
+JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+JST XH series connector, B5B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
+0
+5
+5
+footprints
+KWM-30881CVB
+Small 1.2" 8x8 Ultra Bright Red LED Matrix
+
+0
+16
+16
+footprints
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+footprints
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+footprints
+LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel
+0
+4
+4
+footprints
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+footprints
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+footprints
+PJ-102AH
+Power Barrel Connector Jack 2.00mm ID (0.079"), 5.50mm OD (0.217") Through Hole, Right Angle
+
+0
+3
+3
+footprints
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+footprints
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+footprints
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+footprints
+PinHeader_1x07_P2.54mm_Vertical
+Through hole straight pin header, 1x07, 2.54mm pitch, single row
+Through hole pin header THT 1x07 2.54mm single row
+0
+7
+7
+footprints
+PinHeader_1x18_P2.54mm_Vertical
+Through hole straight pin header, 1x18, 2.54mm pitch, single row
+Through hole pin header THT 1x18 2.54mm single row
+0
+18
+18
+footprints
+PinHeader_2x03_P2.54mm_Vertical
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+footprints
+Potentiometer_Bourns_3386P_Vertical
+Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386P
+0
+3
+3
+footprints
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+footprints
+R_Axial_L3.6mm_D1.6mm_P5.08mm_Horizontal
+Resistor, Axial series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+footprints
+R_LDR_4.9x4.2mm_P2.54mm_Vertical
+Light Sensitive Resistor, LDR 4.9x4.2mm
+Resistor LDR4.9x4.2
+0
+2
+2
+footprints
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+footprints
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+footprints
+SW_SPST_Omron_B3FS-100xP
+Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
+Tactile Switch
+0
+4
+4
+footprints
+SW_TH_Tactile_Omron_B3F-10xx
+SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+Omron B3F-10xx
+0
+4
+4
+footprints
+TC1602A-01T
+https://cdn-shop.adafruit.com/datasheets/TC1602A-01T.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+footprints
+TO-92
+TO-92 leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+footprints
+TO-92S
+TO-92S package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
+to-92S transistor
+0
+3
+3
+footprints
+TO-92_Inline
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+footprints
+TO-92_Inline_Horizontal1
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+footprints
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+footprints
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+footprints
+TO-252-2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+7
+3
+footprints
+USB_Micro-B_Molex-105017-0001
+http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+Micro-USB SMD Typ-B
+0
+13
+6
+footprints
+WH2004A-CFH-JT#
+LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
+LCD 12x2
+0
+18
+18
