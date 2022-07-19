@@ -1,4 +1,4 @@
-79419370163690
+92688670036967
 footprints
 Adafruit-1001-0-0-MFG
 White 7-segment clock display
@@ -105,6 +105,13 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 28
 28
 footprints
+HC-SR04_Horiz
+
+
+0
+4
+4
+footprints
 HPS_logo
 
 
@@ -160,6 +167,13 @@ mounting hole 3.2mm no annular m3
 0
 0
 0
+footprints
+PIRMotionModule
+
+
+0
+3
+3
 footprints
 PJ-102AH
 Power Barrel Connector Jack 2.00mm ID (0.079"), 5.50mm OD (0.217") Through Hole, Right Angle
@@ -238,6 +252,13 @@ Resistor LDR4.9x4.2
 2
 2
 footprints
+RotaryEncoder_TT_EN11-Switch_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+5
+footprints
 SOIC-8_3.9x4.9mm_P1.27mm
 SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
@@ -265,6 +286,13 @@ Omron B3F-10xx
 0
 4
 4
+footprints
+Sx56-1xxxxx
+Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf
+One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
+0
+10
+10
 footprints
 TC1602A-01T
 https://cdn-shop.adafruit.com/datasheets/TC1602A-01T.pdf
@@ -322,6 +350,13 @@ DPAK TO-252 DPAK-3 TO-252-3 SOT-428
 7
 3
 footprints
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+footprints
 USB_Micro-B_Molex-105017-0001
 http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
 Micro-USB SMD Typ-B
@@ -329,9 +364,30 @@ Micro-USB SMD Typ-B
 13
 6
 footprints
+Vishay_MINICAST-3Pin
+IR Receiver Vishay TSOP-xxxx, MINICAST package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf
+IR Receiver Vishay TSOP-xxxx MINICAST
+0
+3
+3
+footprints
+Vishay_MINICAST-3Pin_Horiz
+IR Receiver Vishay TSOP-xxxx, MINICAST package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf
+IR Receiver Vishay TSOP-xxxx MINICAST
+0
+3
+3
+footprints
 WH2004A-CFH-JT#
 LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
 LCD 12x2
 0
 18
 18
+footprints
+Wurth-694106402002
+Power Barrel Connector Jack 2.00mm ID (0.079"), 5.50mm OD (0.217") Through Hole, Vertical
+
+0
+3
+3
