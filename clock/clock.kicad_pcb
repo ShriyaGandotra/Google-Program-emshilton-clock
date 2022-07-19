@@ -1013,7 +1013,7 @@
 
   (footprint "footprints:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5B198B65) (tstamp 2b083b20-7e58-43a4-a65f-356ab645f4f6)
-    (at 198.12 121.92)
+    (at 203.2 116.84)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Dielectric" "N/A")
@@ -1248,7 +1248,7 @@
 
   (footprint "footprints:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5B198B65) (tstamp 44623012-dc29-4c8a-97d2-c33163470440)
-    (at 116.84 76.2)
+    (at 119.38 73.66)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Dielectric" "N/A")
@@ -1475,7 +1475,7 @@
 
   (footprint "footprints:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5B198B65) (tstamp 573be06e-cba5-436b-b63f-881d7c654ec6)
-    (at 106.68 81.28)
+    (at 109.22 73.66)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey PN" "RC0805FR-0747RL ")
@@ -1520,7 +1520,7 @@
 
   (footprint "footprints:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5B198B65) (tstamp 57dd6e4e-3d8d-475b-a690-18a2b380dacc)
-    (at 205.74 134.62)
+    (at 203.2 134.62)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Dielectric" "N/A")
@@ -2368,7 +2368,7 @@
 
   (footprint "footprints:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5B198B65) (tstamp 84586e33-3237-41e8-ad3c-aef7e5ce2c4d)
-    (at 111.76 78.74)
+    (at 114.3 73.66)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey PN" "RC0805FR-0747RL ")
@@ -2507,7 +2507,7 @@
 
   (footprint "footprints:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5B198B65) (tstamp 8dcf2be8-6ba1-4f4a-87cb-1065bf7e7c43)
-    (at 184.57 121.92)
+    (at 189.65 116.84)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey PN" "311-2.20KCRCT-ND")
